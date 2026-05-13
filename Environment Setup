@@ -1,0 +1,7 @@
+from google.colab import files
+uploaded = files.upload()  
+
+import shutil
+for fname in uploaded:
+    shutil.move(fname, os.path.join(PROJECT_ROOT, fname))
+    print(f'Moved {fname} → {PROJECT_ROOT}/')
