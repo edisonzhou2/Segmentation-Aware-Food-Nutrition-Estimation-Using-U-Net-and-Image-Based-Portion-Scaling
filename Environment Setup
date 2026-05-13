@@ -1,3 +1,4 @@
+// Environment Setup
 from google.colab import files
 uploaded = files.upload()  
 
@@ -5,3 +6,72 @@ import shutil
 for fname in uploaded:
     shutil.move(fname, os.path.join(PROJECT_ROOT, fname))
     print(f'Moved {fname} → {PROJECT_ROOT}/')
+
+import os, shutil, random
+from pathlib import Path
+
+DATASET_ROOT = Path("/content/Food_AI_Final/dataset")
+
+train_img_dir = DATASET_ROOT / "train/images"
+train_mask_dir = DATASET_ROOT / "train/masks"
+
+val_img_dir = DATASET_ROOT / "val/images"
+val_mask_dir = DATASET_ROOT / "val/masks"
+test_img_dir = DATASET_ROOT / "test/images"
+test_mask_dir = DATASET_ROOT / "test/masks"
+
+for d in [val_img_dir, val_mask_dir, test_img_dir, test_mask_dir]:
+    d.mkdir(parents=True, exist_ok=True)
+
+image_files = sorted([
+    f for f in train_img_dir.iterdir()
+    if f.suffix.lower() in [".jpg", ".jpeg", ".png"]
+])
+
+random.seed(42)
+random.shuffle(image_files)
+
+n = len(image_files)
+val_count = int(0.15 * n)
+test_count = int(0.15 * n)
+
+val_files = image_files[:val_count]
+test_files = image_files[val_count:val_count + test_count]
+
+def find_mask(image_path):
+    """
+    Finds matching mask with same name but usually .png.
+    Example:
+    image: apple_001.jpg
+    mask:  apple_001.png
+    """
+    possible_masks = [
+        train_mask_dir / (image_path.stem + ".png"),
+        train_mask_dir / (image_path.stem + ".jpg"),
+        train_mask_dir / (image_path.stem + ".jpeg"),
+    ]
+    for m in possible_masks:
+        if m.exists():
+            return m
+    return None
+
+def copy_pair(files, out_img_dir, out_mask_dir):
+    copied = 0
+    missing = 0
+
+    for img in files:
+        mask = find_mask(img)
+
+        if mask is None:
+            print("Missing mask for:", img.name)
+            missing += 1
+            continue
+
+        shutil.copy2(img, out_img_dir / img.name)
+        shutil.copy2(mask, out_mask_dir / mask.name)
+        copied += 1
+
+    print(f"Copied {copied} pairs. Missing masks: {missing}")
+
+copy_pair(val_files, val_img_dir, val_mask_dir)
+copy_pair(test_files, test_img_dir, test_mask_dir)
