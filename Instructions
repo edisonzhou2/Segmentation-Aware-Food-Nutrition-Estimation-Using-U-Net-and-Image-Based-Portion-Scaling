@@ -40,8 +40,7 @@ Food_AI_Final/
 
 How to Use the Project
 1. Clone the Repository
-git clone https://github.com/your-username/Food_AI_Final.git
-cd Food_AI_Final
+get from Main.py
 2. Install Required Libraries
 
 Install the required Python libraries:
