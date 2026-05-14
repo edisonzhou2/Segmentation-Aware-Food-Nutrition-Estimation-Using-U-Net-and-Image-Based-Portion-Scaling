@@ -1,0 +1,110 @@
+# Food AI Segmentation and Nutrition Estimation
+
+This project uses deep learning to segment food from an image and estimate basic nutrition information. The model is trained using food image segmentation datasets and predicts a mask that separates the food region from the background.
+
+## Dataset Download
+
+Download the datasets from here:
+
+FoodSeg103:  
+https://www.kaggle.com/datasets/ggrill/foodseg103
+
+UEC-FoodPix Complete:  
+https://mm.cs.uec.ac.jp/uecfoodpix/
+
+After downloading the datasets, place them inside the project folder like this:
+
+```text
+Food_AI_Final/
+│
+├── dataset/
+│   ├── train/
+│   │   ├── images/
+│   │   └── masks/
+│   │
+│   ├── val/
+│   │   ├── images/
+│   │   └── masks/
+│   │
+│   └── test/
+│       ├── images/
+│       └── masks/
+│
+├── main.py
+├── dataset.py
+├── model.py
+├── train.py
+├── evaluate.py
+├── nutrition.py
+└── README.md
+
+How to Use the Project
+1. Clone the Repository
+git clone https://github.com/your-username/Food_AI_Final.git
+cd Food_AI_Final
+2. Install Required Libraries
+
+Install the required Python libraries:
+
+pip install torch torchvision numpy matplotlib pillow opencv-python tqdm
+
+If you are using Google Colab, most of these libraries may already be installed.
+
+3. Prepare the Dataset
+
+Download the datasets from the links above and organize the image and mask files into the correct folders.
+
+Each image must have a matching mask. For example:
+
+train/images/000001.jpg
+train/masks/000001.png
+
+Make sure the image and mask filenames match. If there are more images than masks, the training code may give an error.
+
+4. Train the Model
+
+Run the training script:
+
+python train.py
+
+The model will train on the food segmentation dataset and save the trained weights.
+
+5. Evaluate the Model
+
+After training, run:
+
+python evaluate.py
+
+This will test the model and show results such as segmentation accuracy and Dice Score.
+
+6. Test With Your Own Food Image
+
+You can upload or place a food image inside the project folder and run the prediction code.
+
+Example:
+
+python main.py
+
+The program will:
+
+Load the food image
+Predict the food segmentation mask
+Display the original image and predicted mask
+Estimate basic nutrition information
+Notes
+
+The dataset files are not included in this GitHub repository because they are large. Please download them manually from the official dataset links.
+
+Make sure the dataset folder paths match the code. If the program says that images or masks are missing, check that your folders are named correctly:
+
+images
+masks
+train
+val
+test
+
+Also make sure every image has a matching mask file.
+
+Project Goal
+
+The goal of this project is to create a simple Food AI system that can segment food from an image and use that result to support nutrition estimation. Accurate segmentation is important because the nutrition estimation depends on how well the model separates the food area from the background.
