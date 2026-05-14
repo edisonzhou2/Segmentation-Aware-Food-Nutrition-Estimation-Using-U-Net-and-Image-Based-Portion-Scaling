@@ -1,0 +1,460 @@
+dish,calories,fat,carb,carbs,protein,serving,source
+almond,578.1,49.5,22.7,22.7,22.4,100.0,alias of: almonds
+almonds,578.1,49.5,22.7,22.7,22.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+apple,52.0,0.2,14.0,14.0,0.3,100.0,manual classifier-label match (approx per 100g)
+apples,52.0,0.2,14.0,14.0,0.3,100.0,alias of: apple
+artichok,47.0,0.2,11.0,11.0,3.3,100.0,alias of: artichokes
+artichokes,47.0,0.2,11.0,11.0,3.3,100.0,converted from uploaded ingredient CSV (per 100g median)
+arugula,25.0,0.7,3.7,3.7,2.6,100.0,converted from uploaded ingredient CSV (per 100g median)
+arugulas,25.0,0.7,3.7,3.7,2.6,100.0,alias of: arugula
+asparagu,20.4,0.1,3.9,3.9,2.2,100.0,alias of: asparagus
+asparagus,20.4,0.1,3.9,3.9,2.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+avocado,160.0,15.0,9.0,9.0,2.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+avocados,160.0,15.0,9.0,9.0,2.0,100.0,alias of: avocado
+baby carrot,41.0,0.2,10.0,10.0,0.9,100.0,alias of: baby carrots
+baby carrots,41.0,0.2,10.0,10.0,0.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+bacon,541.0,42.0,1.4,1.4,37.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+bacons,541.0,42.0,1.4,1.4,37.0,100.0,alias of: bacon
+bagel,250.0,1.5,48.0,48.0,10.0,100.0,manual classifier-label match (approx per 100g)
+bagels,250.0,1.5,49.0,49.0,10.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+banana,89.0,0.3,23.0,23.0,1.1,100.0,manual classifier-label match (approx per 100g)
+banana with peel,55.6,0.2,14.4,14.4,0.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+banana with peels,55.6,0.2,14.4,14.4,0.7,100.0,alias of: banana with peel
+bananas,89.0,0.3,23.0,23.0,1.1,100.0,alias of: banana
+basil,24.0,0.0,2.0,2.0,4.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+basils,24.0,0.0,2.0,2.0,4.0,100.0,alias of: basil
+bean,140.0,0.6,24.0,24.0,9.0,100.0,cleaned alias of: bean(seed)
+bean(seed),140.0,0.6,24.0,24.0,9.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+bean(seed)s,140.0,0.6,24.0,24.0,9.0,100.0,alias of: bean(seed)
+beef,250.0,15.0,0.0,0.0,26.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+beefs,250.0,15.0,0.0,0.0,26.0,100.0,alias of: beef
+beet,44.0,0.2,10.0,10.0,1.7,100.0,alias of: beets
+beets,44.0,0.2,10.0,10.0,1.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+bell pepper,31.0,0.3,6.0,6.0,1.0,100.0,manual classifier-label match (approx per 100g)
+bell peppers,40.0,0.2,9.0,9.0,2.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+berries,57.0,0.3,14.0,14.0,0.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+berry,57.0,0.3,14.0,14.0,0.7,100.0,alias of: berries
+biscuit,352.5,16.2,44.7,44.7,7.0,100.0,alias of: biscuits
+biscuits,352.5,16.2,44.7,44.7,7.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+black bean,132.0,0.5,23.7,23.7,8.9,100.0,alias of: black beans
+black beans,132.0,0.5,23.7,23.7,8.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+blackberries,43.0,0.5,9.2,9.2,1.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+blackberry,43.0,0.5,9.2,9.2,1.4,100.0,alias of: blackberries
+blue cheese,353.0,29.0,2.3,2.3,21.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+blue cheeses,353.0,29.0,2.3,2.3,21.0,100.0,alias of: blue cheese
+blueberries,57.2,0.3,14.4,14.4,0.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+blueberry,57.2,0.3,14.4,14.4,0.7,100.0,alias of: blueberries
+bok choy,13.0,0.2,2.2,2.2,1.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+bok choys,13.0,0.2,2.2,2.2,1.5,100.0,alias of: bok choy
+bread,265.0,3.2,49.0,49.0,9.0,100.0,manual classifier-label match (approx per 100g)
+breads,265.4,4.2,42.3,42.3,13.5,100.0,alias of: bread
+broccoli,34.0,0.4,7.0,7.0,2.8,100.0,manual classifier-label match (approx per 100g)
+broccolis,35.0,0.4,7.0,7.0,2.4,100.0,alias of: broccoli
+brown rice,111.0,0.9,23.0,23.0,2.6,100.0,converted from uploaded ingredient CSV (per 100g median)
+brown rices,111.0,0.9,23.0,23.0,2.6,100.0,alias of: brown rice
+brown sugar,380.0,0.0,98.0,98.0,0.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+brown sugars,380.0,0.0,98.0,98.0,0.1,100.0,alias of: brown sugar
+brownies,466.1,28.8,49.8,49.8,6.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+browny,466.1,28.8,49.8,49.8,6.2,100.0,alias of: brownies
+brussels sprout,43.0,0.3,9.0,9.0,3.4,100.0,alias of: brussels sprouts
+brussels sprouts,43.0,0.3,9.0,9.0,3.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+bulgur,342.0,1.3,76.0,76.0,12.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+bulgurs,342.0,1.3,76.0,76.0,12.0,100.0,alias of: bulgur
+burger,295.0,12.0,30.0,30.0,17.0,100.0,manual classifier-label match (approx per 100g)
+burrito,206.0,7.0,28.0,28.0,8.0,100.0,manual classifier-label match (approx per 100g)
+butter,717.0,81.0,0.1,0.1,0.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+buttermilk,40.2,0.9,4.8,4.8,3.3,100.0,converted from uploaded ingredient CSV (per 100g median)
+buttermilks,40.2,0.9,4.8,4.8,3.3,100.0,alias of: buttermilk
+butters,717.0,81.0,0.1,0.1,0.8,100.0,alias of: butter
+cabbage,21.0,0.5,3.2,3.2,1.3,100.0,converted from uploaded ingredient CSV (per 100g median)
+cabbages,21.0,0.5,3.2,3.2,1.3,100.0,alias of: cabbage
+caesar dressing,44.1,2.1,4.3,4.3,3.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+caesar dressings,44.1,2.1,4.3,4.3,3.2,100.0,alias of: caesar dressing
+caesar salad,180.0,14.0,7.0,7.0,7.0,100.0,manual classifier-label match (approx per 100g)
+caesar salads,44.0,2.1,4.3,4.3,3.2,100.0,alias of: caesar salad
+cake,350.0,15.0,50.0,50.0,5.0,100.0,manual classifier-label match (approx per 100g)
+cantaloupe,34.0,0.2,8.0,8.0,0.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+cantaloupes,34.0,0.2,8.0,8.0,0.8,100.0,alias of: cantaloupe
+carbonara,370.0,18.0,45.0,45.0,13.0,100.0,manual classifier-label match (approx per 100g)
+carrot,41.0,0.2,10.0,10.0,0.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+carrots,41.0,0.2,10.0,10.0,0.9,100.0,alias of: carrot
+cauliflower,25.0,0.3,5.0,5.0,1.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+cauliflowers,25.0,0.3,5.0,5.0,1.8,100.0,alias of: cauliflower
+celery,16.0,0.2,3.4,3.4,0.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+celery root,42.0,0.3,9.2,9.2,1.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+celery roots,42.0,0.3,9.2,9.2,1.5,100.0,alias of: celery root
+celerys,16.0,0.2,3.4,3.4,0.7,100.0,alias of: celery
+cereal,376.0,6.7,73.0,73.0,12.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+cereals,376.0,6.7,73.0,73.0,12.0,100.0,alias of: cereal
+chard,19.0,0.2,3.7,3.7,1.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+chards,19.0,0.2,3.7,3.7,1.8,100.0,alias of: chard
+chayote squash,24.0,0.5,5.1,5.1,0.6,100.0,converted from uploaded ingredient CSV (per 100g median)
+chayote squashs,24.0,0.5,5.1,5.1,0.6,100.0,alias of: chayote squash
+cheese,402.0,33.0,1.3,1.3,25.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+cheese pizza,266.0,10.0,33.0,33.0,11.0,100.0,manual classifier-label match (approx per 100g)
+cheese pizzas,265.9,9.4,33.5,33.5,11.2,100.0,alias of: cheese pizza
+cheeseburger,303.0,14.0,30.0,30.0,16.0,100.0,manual classifier-label match (approx per 100g)
+cheeses,402.0,33.0,1.3,1.3,25.0,100.0,alias of: cheese
+cherry tomato,18.0,0.2,3.9,3.9,0.9,100.0,alias of: cherry tomatoes
+cherry tomatoes,18.0,0.2,3.9,3.9,0.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+chia seed,486.0,31.0,42.0,42.0,17.0,100.0,alias of: chia seeds
+chia seeds,486.0,31.0,42.0,42.0,17.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+chicken,239.0,14.0,0.0,0.0,27.0,100.0,manual classifier-label match (approx per 100g)
+chicken apple sausage,160.0,10.0,3.0,3.0,14.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+chicken apple sausages,160.0,10.0,3.0,3.0,14.0,100.0,alias of: chicken apple sausage
+chicken breast,165.2,3.6,0.0,0.0,31.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+chicken breasts,165.2,3.6,0.0,0.0,31.1,100.0,alias of: chicken breast
+chicken salad,227.0,16.0,2.9,2.9,17.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+chicken salads,227.0,16.0,2.9,2.9,17.0,100.0,alias of: chicken salad
+chicken thigh,177.2,8.3,0.0,0.0,23.9,100.0,alias of: chicken thighs
+chicken thighs,177.2,8.3,0.0,0.0,23.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+chickens,165.0,3.6,0.0,0.0,31.0,100.0,alias of: chicken
+chickpea,164.0,2.6,27.0,27.0,9.0,100.0,alias of: chickpeas
+chickpeas,164.0,2.6,27.0,27.0,9.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+chilaquil,195.0,12.0,12.0,12.0,8.9,100.0,alias of: chilaquiles
+chilaquiles,195.0,12.0,12.0,12.0,8.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+chili,101.0,4.0,9.0,9.0,7.0,100.0,manual classifier-label match (approx per 100g)
+chilis,40.0,0.4,8.9,8.9,1.8,100.0,alias of: chili
+chive,30.0,0.7,4.4,4.4,3.3,100.0,converted from uploaded ingredient CSV (per 100g median)
+chives,30.0,0.7,4.4,4.4,3.3,100.0,alias of: chive
+chocolate cake,371.0,16.0,53.0,53.0,5.0,100.0,manual classifier-label match (approx per 100g)
+chocolate sauce,279.0,1.2,65.0,65.0,2.1,100.0,manual classifier-label match (approx per 100g)
+cilantro,22.8,0.5,3.7,3.7,2.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+cilantros,22.8,0.5,3.7,3.7,2.2,100.0,alias of: cilantro
+cod,84.7,0.5,0.0,0.0,18.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+cods,84.7,0.5,0.0,0.0,18.9,100.0,alias of: cod
+cookies,492.0,25.0,65.0,65.0,5.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+cooky,492.0,25.0,65.0,65.0,5.1,100.0,alias of: cookies
+corn,96.0,1.5,21.0,21.0,3.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+corn on the cob,106.1,2.4,22.0,22.0,3.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+corn on the cobs,106.1,2.4,22.0,22.0,3.1,100.0,alias of: corn on the cob
+corns,96.0,1.5,21.0,21.0,3.4,100.0,alias of: corn
+cottage cheese,98.0,4.3,3.4,3.4,11.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+cottage cheeses,98.0,4.3,3.4,3.4,11.0,100.0,alias of: cottage cheese
+country rice,152.04,6.8,31.6,31.6,3.86,100.0,converted from uploaded ingredient CSV (per 100g median)
+country rices,152.04,6.8,31.6,31.6,3.86,100.0,alias of: country rice
+couscou,112.0,0.2,23.0,23.0,3.8,100.0,alias of: couscous
+couscous,112.0,0.2,23.0,23.0,3.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+cranberries,46.0,0.1,12.0,12.0,0.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+cranberry,46.0,0.1,12.0,12.0,0.5,100.0,alias of: cranberries
+cream,336.3,36.6,2.7,2.7,2.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+cream cheese,350.0,34.0,5.5,5.5,6.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+cream cheeses,350.0,34.0,5.5,5.5,6.2,100.0,alias of: cream cheese
+creams,336.3,36.6,2.7,2.7,2.8,100.0,alias of: cream
+crouton,408.1,6.7,72.3,72.3,12.0,100.0,alias of: croutons
+croutons,408.1,6.7,72.3,72.3,12.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+cucumber,15.0,0.1,3.6,3.6,0.7,100.0,manual classifier-label match (approx per 100g)
+cucumbers,15.0,0.1,3.6,3.6,0.7,100.0,manual classifier-label match (approx per 100g)
+cupcake,305.0,12.0,45.0,45.0,4.0,100.0,manual classifier-label match (approx per 100g)
+deprecated,52.0,0.2,0.3,0.3,14.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+deprecateds,52.0,0.2,0.3,0.3,14.0,100.0,alias of: deprecated
+donut,452.0,25.0,51.0,51.0,5.0,100.0,manual classifier-label match (approx per 100g)
+doughnut,452.0,25.0,51.0,51.0,5.0,100.0,manual classifier-label match (approx per 100g)
+egg,155.5,10.5,1.2,1.2,12.5,100.0,alias of: eggs
+egg whit,52.0,0.2,0.7,0.7,10.0,100.0,alias of: egg whites
+egg whites,52.0,0.2,0.7,0.7,10.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+eggnog,88.0,4.0,8.0,8.0,4.0,100.0,manual classifier-label match (approx per 100g)
+eggplant,24.8,0.2,5.9,5.9,1.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+eggplants,24.8,0.2,5.9,5.9,1.0,100.0,alias of: eggplant
+eggs,155.5,10.5,1.2,1.2,12.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+feta cheese,264.1,21.1,4.2,4.2,13.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+feta cheeses,264.1,21.1,4.2,4.2,13.8,100.0,alias of: feta cheese
+fig,275.0,0.0,65.0,65.0,2.5,100.0,alias of: figs
+figs,275.0,0.0,65.0,65.0,2.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+fish,90.0,13.0,0.0,0.0,18.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+fishs,90.0,13.0,0.0,0.0,18.4,100.0,alias of: fish
+flour,364.1,1.0,76.0,76.0,10.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+flours,364.1,1.0,76.0,76.0,10.2,100.0,alias of: flour
+french fries,312.0,15.0,41.0,41.0,3.4,100.0,manual classifier-label match (approx per 100g)
+fried chicken,260.0,15.0,8.0,8.0,21.0,100.0,manual classifier-label match (approx per 100g)
+fried rice,163.0,5.0,25.0,25.0,5.0,100.0,manual classifier-label match (approx per 100g)
+fried rices,157.7,2.2,29.9,29.9,4.7,100.0,alias of: fried rice
+fries,312.0,15.0,41.0,41.0,3.4,100.0,manual classifier-label match (approx per 100g)
+frozen yogurt,163.3,5.9,24.5,24.5,4.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+frozen yogurts,163.3,5.9,24.5,24.5,4.1,100.0,alias of: frozen yogurt
+fruit salad,59.0,0.3,15.0,15.0,0.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+fruit salads,59.0,0.3,15.0,15.0,0.8,100.0,alias of: fruit salad
+garden salad,64.6,3.4,3.2,3.2,6.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+garden salads,64.6,3.4,3.2,3.2,6.1,100.0,alias of: garden salad
+garlic,149.0,0.5,33.0,33.0,6.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+garlics,149.0,0.5,33.0,33.0,6.4,100.0,alias of: garlic
+ginger,80.0,0.8,18.0,18.0,1.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+gingers,80.0,0.8,18.0,18.0,1.8,100.0,alias of: ginger
+goat cheese,264.0,21.0,0.0,0.0,19.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+goat cheeses,264.0,21.0,0.0,0.0,19.0,100.0,alias of: goat cheese
+granola,469.3,20.4,64.7,64.7,10.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+granolas,469.3,20.4,64.7,64.7,10.0,100.0,alias of: granola
+grap,69.0,0.2,18.0,18.0,0.7,100.0,alias of: grapes
+grapefruit juice,38.9,0.1,9.1,9.1,0.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+grapefruit juices,38.9,0.1,9.1,9.1,0.5,100.0,alias of: grapefruit juice
+grapes,69.0,0.2,18.0,18.0,0.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+gravy,53.0,3.0,5.0,5.0,2.0,100.0,manual classifier-label match (approx per 100g)
+greek salad,113.0,9.4,4.7,4.7,3.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+greek salads,113.0,9.4,4.7,4.7,3.2,100.0,alias of: greek salad
+greek yogurt,59.0,0.4,3.6,3.6,10.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+greek yogurts,59.0,0.4,3.6,3.6,10.0,100.0,alias of: greek yogurt
+green bean,31.0,0.1,7.0,7.0,1.8,100.0,alias of: green beans
+green beans,31.0,0.1,7.0,7.0,1.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+green onion,32.0,0.2,7.0,7.0,1.8,100.0,alias of: green onions
+green onions,32.0,0.2,7.0,7.0,1.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+grilled chicken,226.2,14.9,0.1,0.1,22.6,100.0,converted from uploaded ingredient CSV (per 100g median)
+grilled chickens,226.2,14.9,0.1,0.1,22.6,100.0,alias of: grilled chicken
+ground turkey,258.0,17.0,0.0,0.0,25.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+ground turkeys,258.0,17.0,0.0,0.0,25.0,100.0,alias of: ground turkey
+guacamole,150.0,13.0,8.0,8.0,2.0,100.0,manual classifier-label match (approx per 100g)
+ham,145.0,6.0,1.5,1.5,21.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+hamburger,295.0,12.0,30.0,30.0,17.0,100.0,manual classifier-label match (approx per 100g)
+hams,145.0,6.0,1.5,1.5,21.0,100.0,alias of: ham
+hash brown,326.0,22.0,32.0,32.0,2.6,100.0,alias of: hash browns
+hash browns,326.0,22.0,32.0,32.0,2.6,100.0,converted from uploaded ingredient CSV (per 100g median)
+hominy,72.1,0.9,14.3,14.3,1.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+hominys,72.1,0.9,14.3,14.3,1.5,100.0,alias of: hominy
+honeydew melon,36.0,0.1,9.0,9.0,0.5,100.0,alias of: honeydew melons
+honeydew melons,36.0,0.1,9.0,9.0,0.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+hot dog,290.0,26.0,4.0,4.0,10.0,100.0,manual classifier-label match (approx per 100g)
+hotdog,290.0,26.0,4.0,4.0,10.0,100.0,manual classifier-label match (approx per 100g)
+ice cream,207.0,11.0,24.0,24.0,3.5,100.0,manual classifier-label match (approx per 100g)
+ice cream con,418.9,7.1,79.0,79.0,7.9,100.0,alias of: ice cream cones
+ice cream cones,418.9,7.1,79.0,79.0,7.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+jalapeno,29.0,0.4,6.5,6.5,0.9,100.0,alias of: jalapenos
+jalapenos,29.0,0.4,6.5,6.5,0.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+jicama,38.0,0.1,9.0,9.0,0.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+jicamas,38.0,0.1,9.0,9.0,0.7,100.0,alias of: jicama
+kale,49.0,0.7,9.0,9.0,3.3,100.0,converted from uploaded ingredient CSV (per 100g median)
+kales,49.0,0.7,9.0,9.0,3.3,100.0,alias of: kale
+ketchup,112.0,0.2,26.0,26.0,1.3,100.0,converted from uploaded ingredient CSV (per 100g median)
+ketchups,112.0,0.2,26.0,26.0,1.3,100.0,alias of: ketchup
+kimchi,30.0,0.1,5.7,5.7,1.6,100.0,converted from uploaded ingredient CSV (per 100g median)
+kimchis,30.0,0.1,5.7,5.7,1.6,100.0,alias of: kimchi
+kiwi,61.0,0.5,15.0,15.0,1.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+kiwis,61.0,0.5,15.0,15.0,1.1,100.0,alias of: kiwi
+lemon,29.0,0.3,9.0,9.0,1.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+lemon juice,17.0,0.0,5.6,5.6,0.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+lemon juices,17.0,0.0,5.6,5.6,0.4,100.0,alias of: lemon juice
+lemons,29.0,0.3,9.0,9.0,1.1,100.0,alias of: lemon
+lentil,114.0,0.4,20.0,20.0,9.0,100.0,alias of: lentils
+lentils,114.0,0.4,20.0,20.0,9.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+lettuce,15.0,0.2,2.9,2.9,1.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+lettuces,15.0,0.2,2.9,2.9,1.4,100.0,alias of: lettuce
+lime,30.0,0.2,10.5,10.5,0.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+limes,30.0,0.2,10.5,10.5,0.7,100.0,alias of: lime
+mandarin orang,53.0,0.3,13.0,13.0,0.8,100.0,alias of: mandarin oranges
+mandarin oranges,53.0,0.3,13.0,13.0,0.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+mango,60.6,0.4,15.0,15.0,0.8,100.0,alias of: mangos
+mangos,60.6,0.4,15.0,15.0,0.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+mashed potato,88.0,2.8,15.0,15.0,1.7,100.0,manual classifier-label match (approx per 100g)
+mayonnaise,680.0,75.0,0.6,0.6,1.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+mayonnaises,680.0,75.0,0.6,0.6,1.0,100.0,alias of: mayonnaise
+meat loaf,240.0,14.0,9.0,9.0,22.0,100.0,manual classifier-label match (approx per 100g)
+meatloaf,240.0,14.0,9.0,9.0,22.0,100.0,manual classifier-label match (approx per 100g)
+milk,51.0,1.9,5.0,5.0,3.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+milks,51.0,1.9,5.0,5.0,3.5,100.0,alias of: milk
+millet,119.0,1.0,23.7,23.7,3.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+millets,119.0,1.0,23.7,23.7,3.5,100.0,alias of: millet
+mixed green,28.0,0.4,5.3,5.3,2.2,100.0,alias of: mixed greens
+mixed greens,28.0,0.4,5.3,5.3,2.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+mozzarella cheese,277.6,17.1,3.2,3.2,28.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+mozzarella cheeses,277.6,17.1,3.2,3.2,28.0,100.0,alias of: mozzarella cheese
+mushroom,22.0,0.3,3.3,3.3,3.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+mushrooms,22.0,0.3,3.3,3.3,3.1,100.0,alias of: mushroom
+mustard,61.3,3.3,6.0,6.0,3.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+mustard green,27.0,0.4,4.7,4.7,2.9,100.0,alias of: mustard greens
+mustard greens,27.0,0.4,4.7,4.7,2.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+mustards,61.3,3.3,6.0,6.0,3.7,100.0,alias of: mustard
+noodl,138.0,2.1,25.0,25.0,4.5,100.0,alias of: noodles
+noodles,138.0,2.1,25.0,25.0,4.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+nopal,16.0,0.1,3.3,3.3,1.4,100.0,alias of: nopales
+nopales,16.0,0.1,3.3,3.3,1.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+nut,607.0,54.0,21.0,21.0,20.0,100.0,alias of: nuts
+nuts,607.0,54.0,21.0,21.0,20.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+oatmeal,68.0,1.4,12.0,12.0,2.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+oatmeals,68.0,1.4,12.0,12.0,2.4,100.0,alias of: oatmeal
+oliv,115.0,10.7,6.3,6.3,0.8,100.0,alias of: olives
+olive oil,884.0,100.0,0.0,0.0,0.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+olive oils,884.0,100.0,0.0,0.0,0.0,100.0,alias of: olive oil
+olives,115.0,10.7,6.3,6.3,0.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+omelet,154.0,12.0,1.0,1.0,11.0,100.0,manual classifier-label match (approx per 100g)
+omelette,154.0,12.0,1.0,1.0,11.0,100.0,manual classifier-label match (approx per 100g)
+onion,40.0,0.1,9.0,9.0,1.1,100.0,alias of: onions
+onions,40.0,0.1,9.0,9.0,1.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+orange,47.0,0.1,12.0,12.0,0.9,100.0,manual classifier-label match (approx per 100g)
+orange juice,47.0,0.1,11.0,11.0,0.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+orange juices,47.0,0.1,11.0,11.0,0.7,100.0,alias of: orange juice
+orange with peel,29.4,0.1,7.5,7.5,0.6,100.0,converted from uploaded ingredient CSV (per 100g median)
+orange with peels,29.4,0.1,7.5,7.5,0.6,100.0,alias of: orange with peel
+oranges,47.0,0.1,12.0,12.0,0.9,100.0,alias of: orange
+oregano,270.0,4.0,69.0,69.0,9.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+oreganos,270.0,4.0,69.0,69.0,9.0,100.0,alias of: oregano
+pancake,227.0,10.0,28.0,28.0,6.0,100.0,manual classifier-label match (approx per 100g)
+parmesan cheese,430.7,28.6,4.2,4.2,38.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+parmesan cheeses,430.7,28.6,4.2,4.2,38.4,100.0,alias of: parmesan cheese
+parsley,37.1,0.8,6.4,6.4,2.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+parsleys,37.1,0.8,6.4,6.4,2.9,100.0,alias of: parsley
+parsnip,75.0,0.3,18.0,18.0,1.2,100.0,alias of: parsnips
+parsnips,75.0,0.3,18.0,18.0,1.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+pasta,220.0,2.0,43.0,43.0,8.0,100.0,manual classifier-label match (approx per 100g)
+pasta salad,201.5,11.9,17.3,17.3,5.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+pasta salads,201.5,11.9,17.3,17.3,5.9,100.0,alias of: pasta salad
+pastas,131.6,1.1,24.8,24.8,5.1,100.0,alias of: pasta
+pear,57.2,0.1,15.2,15.2,0.4,100.0,alias of: pears
+pears,57.2,0.1,15.2,15.2,0.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+pecan,690.0,72.0,14.0,14.0,9.0,100.0,alias of: pecans
+pecans,690.0,72.0,14.0,14.0,9.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+pepper,40.0,0.2,9.3,9.3,2.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+pepperoni,493.6,43.8,0.0,0.0,23.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+pepperoni pizza,298.0,13.0,32.0,32.0,13.0,100.0,manual classifier-label match (approx per 100g)
+pepperoni pizzas,282.0,12.0,32.0,32.0,12.0,100.0,alias of: pepperoni pizza
+pepperonis,493.6,43.8,0.0,0.0,23.1,100.0,alias of: pepperoni
+peppers,40.0,0.2,9.3,9.3,2.0,100.0,alias of: pepper
+pesto,562.0,54.9,8.0,8.0,12.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+pestos,562.0,54.9,8.0,8.0,12.1,100.0,alias of: pesto
+pickl,11.0,0.2,2.3,2.3,0.3,100.0,alias of: pickles
+pickles,11.0,0.2,2.3,2.3,0.3,100.0,converted from uploaded ingredient CSV (per 100g median)
+pilaf,159.2,4.9,25.6,25.6,2.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+pilafs,159.2,4.9,25.6,25.6,2.5,100.0,alias of: pilaf
+pineapple,50.0,0.1,13.0,13.0,0.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+pineapples,50.0,0.1,13.0,13.0,0.5,100.0,alias of: pineapple
+pizza,266.0,10.0,33.0,33.0,11.0,100.0,manual classifier-label match (approx per 100g)
+pizzas,266.0,9.7,33.0,33.0,11.0,100.0,alias of: pizza
+plate,0.0,0.0,0.0,0.0,0.0,100.0,manual classifier-label match (approx per 100g)
+plate only,0.0,0.0,0.0,0.0,0.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+plate onlys,0.0,0.0,0.0,0.0,0.0,100.0,alias of: plate only
+pork,238.0,14.0,0.0,0.0,26.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+porks,238.0,14.0,0.0,0.0,26.0,100.0,alias of: pork
+pot pie,400.0,22.0,35.0,35.0,12.0,100.0,manual classifier-label match (approx per 100g)
+potato,77.0,0.1,17.0,17.0,2.0,100.0,manual classifier-label match (approx per 100g)
+potato chip,536.0,35.0,53.0,53.0,7.0,100.0,alias of: potato chips
+potato chips,536.0,35.0,53.0,53.0,7.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+potatoes,77.0,0.1,17.0,17.0,2.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+potpie,400.0,22.0,35.0,35.0,12.0,100.0,manual classifier-label match (approx per 100g)
+pumpkin seed,446.0,19.0,54.0,54.0,19.0,100.0,alias of: pumpkin seeds
+pumpkin seeds,446.0,19.0,54.0,54.0,19.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+quinoa,120.0,1.9,21.0,21.0,4.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+quinoas,120.0,1.9,21.0,21.0,4.4,100.0,alias of: quinoa
+radish,16.0,0.1,3.4,3.4,0.7,100.0,alias of: radishes
+radishes,16.0,0.1,3.4,3.4,0.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+raisin,299.0,0.5,79.0,79.0,3.1,100.0,alias of: raisins
+raisins,299.0,0.5,79.0,79.0,3.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+ramen,436.0,18.0,60.0,60.0,10.0,100.0,manual classifier-label match (approx per 100g)
+raspberries,53.0,0.7,12.0,12.0,1.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+raspberry,53.0,0.7,12.0,12.0,1.2,100.0,alias of: raspberries
+rice,130.0,0.3,28.0,28.0,2.7,100.0,manual classifier-label match (approx per 100g)
+rice noodl,109.0,0.2,25.0,25.0,0.9,100.0,alias of: rice noodles
+rice noodles,109.0,0.2,25.0,25.0,0.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+roast chicken,223.7,13.0,0.0,0.0,23.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+roast chickens,223.7,13.0,0.0,0.0,23.5,100.0,alias of: roast chicken
+roasted potato,141.0,6.8,18.0,18.0,2.1,100.0,alias of: roasted potatoes
+roasted potatoes,141.0,6.8,18.0,18.0,2.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+rosemary,131.0,5.7,20.0,20.0,2.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+rosemarys,131.0,5.7,20.0,20.0,2.9,100.0,alias of: rosemary
+salad,33.0,0.3,7.0,7.0,2.0,100.0,manual classifier-label match (approx per 100g)
+salmon,208.0,13.0,0.0,0.0,20.0,100.0,manual classifier-label match (approx per 100g)
+salmons,178.0,8.0,0.0,0.0,24.0,100.0,alias of: salmon
+salsa,29.0,0.2,6.6,6.6,1.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+salsas,29.0,0.2,6.6,6.6,1.5,100.0,alias of: salsa
+salt,0.0,0.0,0.0,0.0,0.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+salts,0.0,0.0,0.0,0.0,0.0,100.0,alias of: salt
+sandwich,250.0,9.0,30.0,30.0,12.0,100.0,manual classifier-label match (approx per 100g)
+sandwiches,232.9,13.0,17.9,17.9,11.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+sausage,344.6,27.3,4.2,4.2,19.3,100.0,converted from uploaded ingredient CSV (per 100g median)
+sausages,344.6,27.3,4.2,4.2,19.3,100.0,alias of: sausage
+scrambled egg,148.0,11.0,1.6,1.6,10.0,100.0,alias of: scrambled eggs
+scrambled eggs,148.0,11.0,1.6,1.6,10.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+shallot,20.0,0.2,3.3,3.3,1.5,100.0,alias of: shallots
+shallots,20.0,0.2,3.3,3.3,1.5,100.0,converted from uploaded ingredient CSV (per 100g median)
+shrimp,99.0,0.3,0.2,0.2,24.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+shrimps,99.0,0.3,0.2,0.2,24.0,100.0,alias of: shrimp
+snow pea,81.0,0.4,14.0,14.0,5.0,100.0,alias of: snow peas
+snow peas,81.0,0.4,14.0,14.0,5.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+soup,50.0,1.5,7.0,7.0,3.0,100.0,manual classifier-label match (approx per 100g)
+sour cream,198.0,19.0,4.6,4.6,2.4,100.0,converted from uploaded ingredient CSV (per 100g median)
+sour creams,198.0,19.0,4.6,4.6,2.4,100.0,alias of: sour cream
+soy sauce,53.0,0.6,4.9,4.9,8.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+soy sauces,53.0,0.6,4.9,4.9,8.1,100.0,alias of: soy sauce
+spaghetti carbonara,370.0,18.0,45.0,45.0,13.0,100.0,manual classifier-label match (approx per 100g)
+spinach,23.0,0.4,3.6,3.6,2.9,100.0,cleaned alias of: spinach (raw)
+spinach (cooked),23.0,0.0,4.0,4.0,3.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+spinach (cooked)s,23.0,0.0,4.0,4.0,3.0,100.0,alias of: spinach (cooked)
+spinach (raw),23.0,0.4,3.6,3.6,2.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+spinach (raw)s,23.0,0.4,3.6,3.6,2.9,100.0,alias of: spinach (raw)
+squash,20.5,0.3,3.4,3.4,0.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+squashs,20.5,0.3,3.4,3.4,0.9,100.0,alias of: squash
+steak,271.0,19.0,0.0,0.0,25.0,100.0,manual classifier-label match (approx per 100g)
+steaks,271.0,19.0,0.0,0.0,25.0,100.0,alias of: steak
+strawberries,33.0,0.3,8.0,8.0,0.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+strawberry,32.0,0.3,7.7,7.7,0.7,100.0,manual classifier-label match (approx per 100g)
+succotash,99.0,1.0,20.0,20.0,5.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+succotashs,99.0,1.0,20.0,20.0,5.0,100.0,alias of: succotash
+sugar,388.0,0.0,100.0,100.0,0.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+sugars,388.0,0.0,100.0,100.0,0.0,100.0,alias of: sugar
+sun dried tomato,258.0,3.0,56.0,56.0,14.0,100.0,alias of: sun dried tomatoes
+sun dried tomatoes,258.0,3.0,56.0,56.0,14.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+sunflower seed,546.0,50.0,15.0,15.0,19.0,100.0,alias of: sunflower seeds
+sunflower seeds,546.0,50.0,15.0,15.0,19.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+sushi,145.0,2.0,28.0,28.0,5.0,100.0,manual classifier-label match (approx per 100g)
+sweet potato,76.0,0.0,18.0,18.0,1.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+sweet potatos,76.0,0.0,18.0,18.0,1.0,100.0,alias of: sweet potato
+syrup,260.0,0.1,67.0,67.0,0.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+syrups,260.0,0.1,67.0,67.0,0.0,100.0,alias of: syrup
+taco,226.0,10.0,20.0,20.0,9.0,100.0,manual classifier-label match (approx per 100g)
+tatsoi,22.0,0.3,3.9,3.9,2.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+tatsois,22.0,0.3,3.9,3.9,2.2,100.0,alias of: tatsoi
+tempeh,192.9,10.9,9.3,9.3,18.8,100.0,converted from uploaded ingredient CSV (per 100g median)
+tempehs,192.9,10.9,9.3,9.3,18.8,100.0,alias of: tempeh
+thyme,101.0,1.7,24.0,24.0,6.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+thymes,101.0,1.7,24.0,24.0,6.0,100.0,alias of: thyme
+toast,313.0,4.0,55.0,55.0,10.0,100.0,manual classifier-label match (approx per 100g)
+toasts,313.1,4.2,55.5,55.5,13.0,100.0,alias of: toast
+tofu,73.0,4.8,1.9,1.9,8.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+tofus,73.0,4.8,1.9,1.9,8.0,100.0,alias of: tofu
+tomatillo,32.0,1.0,6.0,6.0,1.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+tomatillos,32.0,1.0,6.0,6.0,1.0,100.0,alias of: tomatillo
+tomato,34.0,0.7,6.8,6.8,0.7,100.0,alias of: tomatoes
+tomatoes,34.0,0.7,6.8,6.8,0.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+tortilla,218.0,2.9,45.0,45.0,6.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+tortilla chip,464.2,15.3,73.7,73.7,8.6,100.0,alias of: tortilla chips
+tortilla chips,464.2,15.3,73.7,73.7,8.6,100.0,converted from uploaded ingredient CSV (per 100g median)
+tortillas,218.0,2.9,45.0,45.0,6.0,100.0,alias of: tortilla
+tray,0.0,0.0,0.0,0.0,0.0,100.0,manual classifier-label match (approx per 100g)
+tuna,130.0,0.6,0.0,0.0,29.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+tuna salad,187.0,9.2,9.2,9.2,16.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+tuna salads,187.0,9.2,9.2,9.2,16.2,100.0,alias of: tuna salad
+tunas,130.0,0.6,0.0,0.0,29.0,100.0,alias of: tuna
+turkey bacon,379.7,28.1,3.1,3.1,29.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+turkey bacons,379.7,28.1,3.1,3.1,29.1,100.0,alias of: turkey bacon
+turnip,21.7,0.1,5.1,5.1,0.7,100.0,alias of: turnips
+turnips,21.7,0.1,5.1,5.1,0.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+vegetable oil,886.4,100.0,0.0,0.0,0.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+vegetable oils,886.4,100.0,0.0,0.0,0.0,100.0,alias of: vegetable oil
+vinaigrette,465.5,51.8,2.6,2.6,0.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+vinaigrettes,465.5,51.8,2.6,2.6,0.0,100.0,alias of: vinaigrette
+vinegar,0.0,0.0,0.0,0.0,0.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+vinegars,0.0,0.0,0.0,0.0,0.0,100.0,alias of: vinegar
+waffl,290.3,14.3,32.7,32.7,7.9,100.0,alias of: waffles
+waffle,291.0,14.0,33.0,33.0,8.0,100.0,manual classifier-label match (approx per 100g)
+waffles,290.3,14.3,32.7,32.7,7.9,100.0,converted from uploaded ingredient CSV (per 100g median)
+walnut,653.3,64.2,13.9,13.9,15.1,100.0,alias of: walnuts
+walnuts,653.3,64.2,13.9,13.9,15.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+watermelon,30.0,0.2,7.6,7.6,0.6,100.0,converted from uploaded ingredient CSV (per 100g median)
+watermelons,30.0,0.2,7.6,7.6,0.6,100.0,alias of: watermelon
+wheat berry,91.0,0.5,19.1,19.1,4.2,100.0,converted from uploaded ingredient CSV (per 100g median)
+wheat berrys,91.0,0.5,19.1,19.1,4.2,100.0,alias of: wheat berry
+wheat bread,246.8,3.3,42.1,42.1,13.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+wheat breads,246.8,3.3,42.1,42.1,13.0,100.0,alias of: wheat bread
+white bean,139.0,0.4,25.1,25.1,9.7,100.0,alias of: white beans
+white beans,139.0,0.4,25.1,25.1,9.7,100.0,converted from uploaded ingredient CSV (per 100g median)
+white rice,130.0,0.3,28.0,28.0,2.7,100.0,manual classifier-label match (approx per 100g)
+white rices,130.0,0.3,28.0,28.0,2.7,100.0,alias of: white rice
+white wine,82.0,0.0,2.6,2.6,0.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+white wines,82.0,0.0,2.6,2.6,0.1,100.0,alias of: white wine
+wild rice,119.0,0.4,25.0,25.0,5.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+wild rices,119.0,0.4,25.0,25.0,5.0,100.0,alias of: wild rice
+wine,85.0,0.0,2.6,2.6,0.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+wines,85.0,0.0,2.6,2.6,0.1,100.0,alias of: wine
+wooden spoon,0.0,0.0,0.0,0.0,0.0,100.0,manual classifier-label match (approx per 100g)
+yam,124.1,0.2,29.4,29.4,1.6,100.0,converted from uploaded ingredient CSV (per 100g median)
+yams,124.1,0.2,29.4,29.4,1.6,100.0,alias of: yam
+yogurt,58.9,0.4,3.6,3.6,10.0,100.0,converted from uploaded ingredient CSV (per 100g median)
+yogurts,58.9,0.4,3.6,3.6,10.0,100.0,alias of: yogurt
+zucchini,15.0,0.4,2.7,2.7,1.1,100.0,converted from uploaded ingredient CSV (per 100g median)
+zucchinis,15.0,0.4,2.7,2.7,1.1,100.0,alias of: zucchini
